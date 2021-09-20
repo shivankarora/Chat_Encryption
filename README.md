@@ -25,9 +25,9 @@ Here are the sample instructions used to connect and send messages between two c
 ### Setup Server
 `python3 server_chat.py "0.0.0.0" 9000`
 ### Setup Client 1
-`python client_chat.py "0.0.0.0" 9000 ritvik` 
+`python client_chat.py "0.0.0.0" 9000 Shivank` 
 ### Setup Client 2
-`python client_chat.py "0.0.0.0" 9000 jay`
+`python client_chat.py "0.0.0.0" 9000 jai`
 
 ## Sending Messages
 + `@username_recipient: message` : To direct messages to a user type 
