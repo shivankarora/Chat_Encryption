@@ -32,5 +32,5 @@ Here are the sample instructions used to connect and send messages between two c
 ## Sending Messages
 + `@username_recipient: message` : To direct messages to a user type 
 + `#username_sender: message` : While Receiving messages, client receives 
-+ `UNREGISTER` : Goes into stdin to unregister a client
++ `UNREGISTER` : Goes into stdin to unregister a client from the system
 
